@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "最新篇章
+       新しい一章"
 ---
 
 <div class="tiles">
