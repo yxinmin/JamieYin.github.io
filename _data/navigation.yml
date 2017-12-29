@@ -1,18 +1,18 @@
 # Site navigation links
 
-- title: Learning notes 学习笔记
-  url: /learning/
-  excerpt: "课程学习笔记(学習ノート)"
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: "tableau"
   image: 300x200.gif
 
-- title: Collection 作品集
-  url: /collection/
-  excerpt: "html网页 & tableau"
+- title: 作品集（web）
+  url: /portfolio/
+  excerpt: "html网页"
   image: 300x200.gif
 
-- title: Entertainment 娯楽
-  url: /entertainment/
-  excerpt: "课后娱乐(放課後の娯楽)"
+- title: 文章
+  url: /posts/
+  excerpt: "笔记"
   image: 300x200.gif
 
 - title: Contact 聯絡我
