@@ -2,7 +2,7 @@
 layout: default
 title:  "Web"
 date:   2017-11-30 22:07:50 +0800
-categories: posts rwd
+categories: /posts/rwd/web学习笔记
 image:
   feature: gembox.png
   teaser: gembox.png
