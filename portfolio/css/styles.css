@@ -23,7 +23,7 @@ img {
 }
 
 .Strap {
-	font-size: 1rem;
+	font-size: 2rem;
 }
 
 
@@ -38,6 +38,7 @@ img {
 
 .LogoWrapper {
 	display: block;
+	
 }
 
 .ImageCaption {
@@ -88,7 +89,7 @@ img {
 	.IntroText {
 		padding: .5rem;
 		font-size: 2.5rem;
-		text-align: left;
+		text-align: center;
 		position: relative;
 	}
 
