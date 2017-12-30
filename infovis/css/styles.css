@@ -33,6 +33,10 @@ body {
 	padding: 0 1rem;
 }
 
+.LogoWrapper{
+	color: #595959;
+}
+
 .ListItem,
 .LastItem {
 	color: #595959;
