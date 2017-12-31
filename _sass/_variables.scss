@@ -38,12 +38,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $black;
+$base-color                  	: $midnightblue;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $black;
+$primary-color               	: $midnightblue;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -90,7 +90,7 @@ $form-font-size              	: $doc-font-size;
    ========================================================================== */
 
 $sliding-menu-border-color	 	   : $midnightblue;
-$sliding-menu-background 		   : $midnightblue;
+$sliding-menu-background 		   : $black;
 $sliding-menu-color 	 		   : $white;
 $sliding-menu-background-hover     : $midnightblue;
 $sliding-menu-color-hover	 	   : $red;
