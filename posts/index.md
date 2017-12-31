@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "posts"
+title:  "文章"
 date:   2017-11-30 22:07:50 +0800
 categories: posts  
 ---
