@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $CadetBlue;
+    background: $lemon;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -142,7 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border：3px solid $CadetBlue
+      border：3px solid $lemon
     }
     .title {
       display: block;
@@ -174,7 +174,7 @@
     @include font-size(32);
   }
   .title:hover,.excerpt:hover,.teaser:hover{
-      color: $CadetBlue;
+      color: $lemon;
     }
 }
 
