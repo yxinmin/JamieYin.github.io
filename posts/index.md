@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: article
 title:  "Web"
 date:   2017-11-30 22:07:50 +0800
-categories: /posts/rwd/web学习笔记
+categories: posts 
 image:
   feature: gembox.png
   teaser: gembox.png
