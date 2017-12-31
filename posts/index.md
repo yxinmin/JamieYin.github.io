@@ -2,7 +2,6 @@
 layout: archive
 title:  "文章"
 date:   2017-11-30 22:07:50 +0800
-categories: posts
 modified
 excerpt: "文章中，含"信息可视化笔记"和"Web"笔记"
 tags: []
