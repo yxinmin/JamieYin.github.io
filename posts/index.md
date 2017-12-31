@@ -1,11 +1,8 @@
 ---
-layout: article
+layout: default
 title:  "posts"
 date:   2017-11-30 22:07:50 +0800
-categories: posts 
-image:
-  feature: gembox.png
-  teaser: gembox.png
+categories: posts  
 ---
 
 # 学习笔记
