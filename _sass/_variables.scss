@@ -22,18 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : Midnigt Blue #191970  http://encycolorpedia.cn/002147
-   奶油色／Cream #fffdd0
-   午夜蓝／Midnigt Blue #191970
-   矢军菊蓝色／Cornflower Blue #6495ED
+   Background : Midnigt Blue #191970  http://encycolorpedia.cn/191970
+   red #ff0000
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$oxfordblue                   : #002147;
-$cream                        : #fffdd0;
-$lemon                        : #fff700;
+$red                          : #ff0000;
 $midhightblue                 : #191970;
 $cornflowerblue               : #6495ED;
 
@@ -42,7 +38,7 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $oxfordblue;
+$base-color                  	: $midnightblue;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
@@ -93,11 +89,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $oxfordblue;
-$sliding-menu-background 		   : $oxfordblue;
+$sliding-menu-border-color	 	   : $midnightblue;
+$sliding-menu-background 		   : $midnightblue;
 $sliding-menu-color 	 		   : $white;
-$sliding-menu-background-hover     : $oxfordblue;
-$sliding-menu-color-hover	 	   : $cream;
+$sliding-menu-background-hover     : $midnightblue;
+$sliding-menu-color-hover	 	   : $red;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
 $transition						   : 0.3s; // increase this to see the transformations in slow-motion
