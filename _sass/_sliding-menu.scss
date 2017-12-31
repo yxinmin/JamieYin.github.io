@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: $CadetBlue;
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -135,7 +135,7 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 2px solid $white;
+      border: 1px solid $white;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
@@ -144,6 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
+      border：3px solid %CadetBlue
     }
     .title {
       display: block;
@@ -174,6 +175,9 @@
   .menu-item .home a {
     @include font-size(32);
   }
+  .title:hover,.excerpt:hover,.teaser:hover{
+      color: $CadetBlue;
+    }
 }
 
 /* Dim content when off canvas nav slides in */
