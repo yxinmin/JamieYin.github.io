@@ -6,9 +6,13 @@ modified:
 excerpt:"学习笔记"
 tags: []
 image:
-  feature: books2.gif
-  teaser: 
+  feature: note.gif
+  teaser:
+  
 ---
+
+
+
 在此展示我所触及的笔记
 
 内容如下：信息可视化笔记 &  Web笔记
