@@ -6,7 +6,7 @@ modified:
 excerpt:"学习笔记"
 tags: []
 image:
-  feature: post.gif
+  feature: books2.gif
   teaser: 
 ---
 在此展示我所触及的笔记
