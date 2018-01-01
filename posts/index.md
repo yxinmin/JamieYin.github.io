@@ -10,7 +10,8 @@ image:
   teaser: 
 ---
 在此展示我所触及的笔记
-内容如下：信息可视化笔记 &  Web 笔记
+
+内容如下：信息可视化笔记 &  Web笔记
 
 <div class="tiles">
 {% for post in site.categories.posts %}
@@ -18,3 +19,4 @@ image:
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 posts 的列出来-->
 
+尝试着去做一下页面，或许你会有不一样的体验。
