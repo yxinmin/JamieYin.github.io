@@ -13,9 +13,9 @@
 - title: 文章
   url: /posts/
   excerpt: "笔记"
-  image: books2.gif
+  image: note.gif
 
-- title: Contact 聯絡我
+- title: 聯絡我
   url: /contact/
   excerpt: "联络我"
   image: hello.gif  
