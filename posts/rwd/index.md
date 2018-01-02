@@ -18,5 +18,3 @@ image:
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
-
-尝试着去做一下页面，或许你会有不一样的体验。
