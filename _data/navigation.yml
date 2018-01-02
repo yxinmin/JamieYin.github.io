@@ -10,11 +10,16 @@
   excerpt: "html网页"
   image: web.jpg
 
-- title: 文章
-  url: /posts/
-  excerpt: "笔记"
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "posts"
   image: note.gif
-
+  
+- title: web笔记
+  url: /posts/rwd/
+  excerpt: "posts"
+  image: book.gif
+  
 - title: 聯絡我
   url: /contact/
   excerpt: "联络我"
