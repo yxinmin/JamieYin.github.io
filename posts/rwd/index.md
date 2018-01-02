@@ -1,12 +1,12 @@
 ---
 layout: archive
-title:  "信息可视化笔记"
+title:  "RWD"
 date:   2018-01-01 22:07:50 +0800
 modified:
-excerpt:"学习笔记"
+excerpt:"web笔记"
 tags: []
 image: 
-  feature: note.gif
+  feature: books.jpg
   teaser:
 ---
 
@@ -14,9 +14,9 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.infovis %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
+</div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
 
 尝试着去做一下页面，或许你会有不一样的体验。

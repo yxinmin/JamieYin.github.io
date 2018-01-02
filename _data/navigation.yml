@@ -12,13 +12,13 @@
 
 - title: 信息可视化笔记
   url: /posts/infovis/
-  excerpt: "posts"
+  excerpt: "notes"
   image: note.gif
   
 - title: web笔记
   url: /posts/rwd/
   excerpt: "posts"
-  image: book.gif
+  image: books.gif
   
 - title: 聯絡我
   url: /contact/
